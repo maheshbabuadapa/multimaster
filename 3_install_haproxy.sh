@@ -1,4 +1,2 @@
-sudo apt-get update
-sudo apt-get -y install haproxy
-
-
+sudo yum update -y
+sudo yum -y install haproxy
